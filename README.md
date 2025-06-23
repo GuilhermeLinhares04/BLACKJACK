@@ -2,6 +2,9 @@
 
 Este projeto é um jogo de **Blackjack** desenvolvido em React Native utilizando o Expo. O objetivo é proporcionar uma experiência divertida e simples do clássico jogo de cartas, onde o jogador enfrenta o dealer (banca).
 
+## Vídeo de Demonstração
+[Vídeo de Demonstração](https://youtu.be/W_AhP2J9_xI)
+
 ## Sobre o Jogo
 
 O Blackjack, também conhecido como 21, é um dos jogos de cartas mais populares do mundo. O objetivo é somar 21 pontos ou chegar o mais próximo possível desse valor, sem ultrapassá-lo. As cartas de 2 a 10 valem seu valor de face, as cartas J, Q e K valem 10 pontos e o Ás pode valer 1 ou 11 pontos.
